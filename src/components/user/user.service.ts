@@ -1,0 +1,1 @@
+export const validName = (name: string) => name.length >= 3
